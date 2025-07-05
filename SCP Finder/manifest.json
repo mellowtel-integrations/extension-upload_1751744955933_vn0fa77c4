@@ -1,0 +1,16 @@
+{
+	"name": "SCP Finder",
+	"description": "Input an SCP's number to find it's page",
+	"version": "0.1.0",
+	"manifest_version": 3,
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": "images/icon-light-theme-48.png"
+	},
+	"icons": {
+    "16": "images/icon-light-theme-16.png",
+    "32": "images/icon-light-theme-32.png",
+    "48": "images/icon-light-theme-48.png",
+    "128": "images/icon-light-theme-128.png"
+  	}
+}
